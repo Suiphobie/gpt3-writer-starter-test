@@ -34,7 +34,7 @@ function Home() {
   return (
     <div className="root">
       <Head>
-        <title>GPT-3 Writer | buildspace</title>
+        <title>W40K BOT </title>
       </Head>
       <div className="container">
         <div className="header">
